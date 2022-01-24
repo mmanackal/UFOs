@@ -15,7 +15,7 @@ The new webpage is relatively easy to use. The page provides a brief introductio
 ![image](https://github.com/mmanackal/UFOs/blob/main/Resources/multiple_filters.png)
 
 ## Summary:
-This site is a great starting point for us. Two drawbacks I found weere:
+This site is a great starting point for us. Two drawbacks I found were:
 1. The serach field is case-sensitive. The table will not update if the user does not entere the information exactly as it is
 stored in the JavaScript file.
 2. The data is not comprehensive and outdated since its running from a data file. 
