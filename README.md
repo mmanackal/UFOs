@@ -22,5 +22,5 @@ stored in the JavaScript file.
 
 Improvements for the next iteration:
 1. Removing the case sensitivity and adding the ability to search for key words in the comments column
-2. Adding a date range or filtering by days of the week to see if there are more sitings certain times of the month
+2. Adding a date range or filtering by days of the week to see if there are more sitings during certain times of the month
 3. Expanding the data to include additional months/years
