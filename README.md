@@ -19,6 +19,7 @@ This site is a great starting point for us. Two drawbacks I found were:
 1. The serach field is case-sensitive. The table will not update if the user does not entere the information exactly as it is
 stored in the JavaScript file.
 2. The data is not comprehensive and outdated since its running from a data file. 
+
 Improvements for the next iteration:
 1. Removing the case sensitivity and adding the ability to search for key words in the comments column
 2. Adding a date range or filtering by days of the week to see if there are more sitings certain times of the month
